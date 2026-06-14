@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+data/*.parquet
+data/*.csv
+data/*.jsonl
+models/*.pkl
+models/*.joblib
+models/*.json
+!models/threshold.json
+config/
+demo/
+

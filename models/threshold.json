@@ -1,0 +1,8 @@
+{
+  "fpr_threshold": 0.7934724766109749,
+  "fpr_recall": 0.7253521126760564,
+  "fpr_precision": 0.7610837438423645,
+  "cost_threshold": 0.11341708542713567,
+  "cost_fn": 250000,
+  "cost_fp": 50
+}
