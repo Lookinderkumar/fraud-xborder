@@ -170,5 +170,3 @@ Global SHAP importance: `reports/img/shap_summary.png`
 - Rate limit (100 req/min) is per-IP only -- production would need per-API-key limits
 
 ---
-
-*Dissertation project -- synthetic data only, no real PII.*
